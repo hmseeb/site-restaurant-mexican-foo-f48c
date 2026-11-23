@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Elia Esquivel Mexican Restaurant">
+  <rect width="64" height="64" rx="14" fill="#1C4435"/>
+  <rect x="0" y="52" width="64" height="4" fill="#E3A42C"/>
+  <rect x="0" y="56" width="64" height="4" fill="#B8331A"/>
+  <text x="32" y="40" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+        font-size="26" font-weight="bold" fill="#FFF7EE">EE</text>
+</svg>
